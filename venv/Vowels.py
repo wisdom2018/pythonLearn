@@ -28,4 +28,3 @@ if __name__ == '__main__':
     str2 = reverseVowels(str1)
     print(str2)
 
-/Users/bytedance/PycharmProjects/pythonTest/venv/Vowels.py
